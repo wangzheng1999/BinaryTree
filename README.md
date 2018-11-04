@@ -1,1 +1,1 @@
-Here are several oprations on a binary tree,which include different ways of traverse、creat and obtain some of its'atrributes such as depth、the number of its leaves and ao on.Some of them look simple while others are complex,these are just some basical and fundemental codes.
+Here are several oprations on a binary tree,which include different ways of traverse、creat and obtain some of its'atrributes such as depth、the number of its leaves and so on.Some of them look simple while others are complex,these are just some basical and fundemental codes.
